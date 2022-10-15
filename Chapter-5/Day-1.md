@@ -10,7 +10,7 @@
 
 2. What does setTimeout do? 
 
-  -> setTimeout will call the functon after specific time , which was given by us
+  - setTimeout will call the functon after specific time , which was given by us
 
    ```
    setTimeout(//Our functiion , //Time in millisecound);
