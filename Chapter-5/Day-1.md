@@ -31,9 +31,10 @@
     - Like if our transacton is pending it will give status code -> 1
 
 
+
 4. Make at least 3 changes to the styling of the application. It can be anything (part of this quest is being creative!). List the 3 changes and point      them out in a screenshot.
 
-   - Make seprate container for user address, Also user will see a logout button to logout
+   - Made seprate container for user address, Also user will see a logout button to logout
 
     ![Screenshot from 2022-10-14 21-32-16](https://user-images.githubusercontent.com/107798155/195975551-81d26547-0623-4b6b-ae4e-31751e826e73.png)
    
