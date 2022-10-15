@@ -41,7 +41,7 @@
    
    
    -  Added a button to Show and hide transaction id , it will show last transdaction id of their transacton.
-   -  
+    
    -  In transacton id container user can see another button to view more info about transacton , it will redirect user to flow testnet scan website 
      with their transacton id 
 
@@ -55,7 +55,7 @@
    
    
    
-   - Added some Toast.
+ - Added some Toast.
    
    a. User will get a success notification after transacton sealed.
       
